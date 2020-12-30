@@ -12,6 +12,9 @@
   
 ------------------
 
+[تایپ لاتک روش پژوهش و ارائه صفحه 166 تا 168](https://github.com/b-mohammadi77/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
+
+----------------
 
 
 ## Winter Semester Courses 1399/2020
