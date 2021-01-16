@@ -22,7 +22,7 @@
 
 ### ارزیابی
 
-- [ارزیابی عمومی](- [github](https://github.com/b-mohammadi77))
+- [ارزیابی عمومی](https://github.com/b-mohammadi77))
 -------------------
 
 ## Winter Semester Courses 1399/2020
