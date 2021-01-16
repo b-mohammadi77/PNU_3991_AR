@@ -23,6 +23,8 @@
 ### ارزیابی
 
 - [ارزیابی عمومی](https://github.com/b-mohammadi77/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+
+- [ارزیابی درس](https://github.com/b-mohammadi77/PNU_3991_AR/blob/main/XX_ResearchAndPresentationMethods_CheckList_AR_3991.(1).pdf)
 -------------------
 
 ## Winter Semester Courses 1399/2020
